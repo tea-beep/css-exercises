@@ -42,10 +42,14 @@ input {
   background: #eee;
 }
 
-/* .left-links{
-  display:flex;
-  justify-content: flex-start;
-} */
+.left-links{
+  margin-top:0px; 
+  padding:0px;
+}
+.right-links{
+  margin-top:0px;
+  padding:0px;
+}
 .content{
   display:flex;
   flex:1;
@@ -57,10 +61,12 @@ ul{
   list-style: none;
   display:flex;
   gap:12px;
+  align-items:center;
 }
 a{
   justify-content: flex-start;
   /* all:unset; */
   text-decoration: none;
   color:gray;
+
 }
