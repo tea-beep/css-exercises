@@ -44,7 +44,8 @@ body {
   display:flex;
   flex-direction:column;
   width:300px;
-  padding:16px;
+  /* padding:16px; */
+  margin:16px;
   
 }
 .container{
