@@ -31,16 +31,12 @@ input {
   background-color: #eee;
   align-content: flex-end;
 }
-.header{
-  align-content:center;
-}
 .header,
 .footer {
   display: flex;
   justify-content: space-between;
   padding: 16px;
 }
-
 
 .left-links{
   margin-top:0px; 
