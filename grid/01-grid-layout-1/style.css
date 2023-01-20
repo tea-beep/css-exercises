@@ -30,7 +30,7 @@ body, html {
 
 .sidebar {
   background-color: #FF7755;
-  grid-row: 2 / 4;
+  grid-row:2/4;
 }
 
 .nav {
@@ -39,6 +39,7 @@ body, html {
 
 .article {
   background-color: #bccbde;
+
 }
 
 .article p {
